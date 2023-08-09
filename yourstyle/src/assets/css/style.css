@@ -1,0 +1,166 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg1 {
+    background-image : linear-gradient(to right, #fff 650px,  #387395 450px);
+    height: 630px;
+}
+
+.log {
+    color: #000;
+    font-family: Inknut Antiqua;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 210px;
+}
+
+.log1 {
+    color: white;
+    font-family: Inknut Antiqua;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.font-h {
+    color: #000;
+    font-family: arial;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 150px;
+}
+
+.font-2 {
+    color: #000;
+    font-family: arial;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 90px;
+    
+}
+
+.font-3 {
+    color: #fff;
+    font-family: arial;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 88px;
+}
+
+.font-4 {
+    color: #fff;
+    font-family: arial;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 67px;
+}
+
+.img1 {
+    flex-shrink: 0;
+    margin-bottom: 100px;
+    margin-left: 450px;
+}
+
+.log2 {
+    color: #000;
+    font-family: Inknut Antiqua;
+    font-size: 130px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 200px;
+}
+
+.log3 {
+    color: #fff;
+    font-family: Inknut Antiqua;
+    font-size: 130px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.tex {
+    text-align: justify;
+    margin-left: 225px;
+}
+
+.img14 {
+    margin-left: 65px;
+}
+
+.img15 {
+    margin-left: 65px;
+}
+
+.img5 {
+    margin-left: 40px;
+    margin-top: 4px;
+}
+
+.img6 {
+    margin-left: 25px;
+    margin-top: 0px;
+}
+
+.card1 {
+    background-color: white;
+    border-radius: 10%;
+    width: 180px;
+    height: 200px;
+    flex-shrink: 0;
+    margin-left: 400px;
+}
+
+.card2 {
+    background-color: white;
+    border-radius: 10%;
+    width: 180px;
+    height: 200px;
+    margin-left: 53px;
+    margin-bottom: 30px;
+}
+
+.card {
+    margin-left: 500px;
+    flex-shrink: 0;
+}
+
+.slide1 {
+    background-color: #d9d9d9;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.slide2 {
+    background-color: #d9d9d9;
+    opacity: 20%;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.rec1 {
+    width: 200px;
+    height: 56px;
+    background-color: #d9d9d9;
+    margin-left: 400px;
+    margin-bottom: 140px;
+}
